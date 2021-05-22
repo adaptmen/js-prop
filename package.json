@@ -1,0 +1,18 @@
+{
+  "name": "@adaptmen/js-prop",
+  "version": "1.0.0",
+  "description": "js properties utils",
+  "main": "index.js",
+  "repository": "https://github.com/adaptmen/js-prop.git",
+  "author": "adaptmen@gmail.com",
+  "license": "MIT",
+  "engines": {
+    "node": ">=15.0.0"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "dependencies": {
+    "mocha": "^8.4.0"
+  }
+}
